@@ -13,7 +13,8 @@
 - 자바스크립트에서 관리하는 실제 DOM의 복사본이다.
 - 실제 DOM을 추상화환 Object이다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f2db4a6-aab3-474f-a03a-84ffa51df751/Untitled.png)
+![image](https://user-images.githubusercontent.com/41819129/161271660-f7aac730-8917-4b07-ab6c-8874affccca9.png)
+
 
 - 메모리 상에서 동작하고 변화를 묶어서 실제 DOM에 한번에 반영해서 연산 횟수를 줄일 수 있다.
 - UI의 가상적인 표현을 메모리에 저장하고, 리액트DOM과 같은 라이브러리에 의해 실제 DOM과 동기화
